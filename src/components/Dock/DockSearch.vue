@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import hymnalDB from '/src/hymnal/sda-hymnal-db.json'
+import hymnalDB from '/src/hymnal/sda-hymnal-db-in.json'
 import CheckCircle from '/src/icons/check-circle.vue'
 import { useQueueStore } from '/src/stores/queue.js'
 
